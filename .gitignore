@@ -232,3 +232,12 @@ outputs/validation_references.jsonl
 README_OLD.md
 README_withstar.md
 **/checkpoints/
+# Temporary inference and validation artifacts
+outputs/*retry*
+outputs/*errors.json
+outputs/validation_failed_ids.json
+outputs/validation_predictions.jsonl
+outputs/validation_predictions_clean.jsonl
+outputs/validation_predictions_rebuilt.jsonl
+outputs/validation_predictions_scored.jsonl
+tore --staged .
