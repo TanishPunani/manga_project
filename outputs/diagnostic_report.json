@@ -1,0 +1,21 @@
+{
+  "model": "Qwen/Qwen2.5-VL-3B-Instruct",
+  "gpu": "Tesla T4",
+  "image_processor_max_pixels": 200704,
+  "baseline_validation": {
+    "text_order_score": 0.20198983104728338,
+    "balanced_joint_f1": 0.07915591763011827,
+    "speaker_accuracy_on_matched": 0.4474305402204558,
+    "joint_f1": 0.14274808727508612,
+    "matched_token_coverage": 0.20946007933811495
+  },
+  "training_status": "Not completed",
+  "failure": "NaN logits and vision encoder outputs on page 2 of sequence seq_952f154fb1505883; pages 1 and 3 finite.",
+  "first_example_loss": 1.1267869472503662,
+  "second_example_eval_loss": "NaN",
+  "notes": [
+    "Source PNGs have finite pixel values.",
+    "LoRA gradients were finite on the first example.",
+    "No successful full training run or validated adapter yet."
+  ]
+}

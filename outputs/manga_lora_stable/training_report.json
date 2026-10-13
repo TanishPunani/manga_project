@@ -1,0 +1,320 @@
+{
+  "training_records_attempted": 62,
+  "successful_optimizer_updates": 62,
+  "failed_sequences": [],
+  "loss_history": [
+    {
+      "step": 1,
+      "sequence_id": "seq_7db7a000adeceacf",
+      "loss": 1.0276027917861938
+    },
+    {
+      "step": 2,
+      "sequence_id": "seq_9032e5551cf1a9d2",
+      "loss": 1.0505635738372803
+    },
+    {
+      "step": 3,
+      "sequence_id": "seq_2022b8c0e1f2d3c0",
+      "loss": 0.9300884008407593
+    },
+    {
+      "step": 4,
+      "sequence_id": "seq_a3bd36201a0cd61b",
+      "loss": 0.5458620190620422
+    },
+    {
+      "step": 5,
+      "sequence_id": "seq_72fdfff4b4353a42",
+      "loss": 0.6245704293251038
+    },
+    {
+      "step": 6,
+      "sequence_id": "seq_b251c8e1ba8b91f8",
+      "loss": 0.5946516990661621
+    },
+    {
+      "step": 7,
+      "sequence_id": "seq_06ec0acde37dffa4",
+      "loss": 0.8173133134841919
+    },
+    {
+      "step": 8,
+      "sequence_id": "seq_1c1d4f5e71a2f554",
+      "loss": 0.8033483028411865
+    },
+    {
+      "step": 9,
+      "sequence_id": "seq_032cbb4dc8686963",
+      "loss": 0.718082845211029
+    },
+    {
+      "step": 10,
+      "sequence_id": "seq_f164203a45862778",
+      "loss": 0.7526607513427734
+    },
+    {
+      "step": 11,
+      "sequence_id": "seq_dcebdbbf614a9b4d",
+      "loss": 0.8737030029296875
+    },
+    {
+      "step": 12,
+      "sequence_id": "seq_2fae297a18af2a57",
+      "loss": 0.5353423357009888
+    },
+    {
+      "step": 13,
+      "sequence_id": "seq_f7ee32f1dd417802",
+      "loss": 0.683681845664978
+    },
+    {
+      "step": 14,
+      "sequence_id": "seq_d62d309820d28efa",
+      "loss": 0.41313299536705017
+    },
+    {
+      "step": 15,
+      "sequence_id": "seq_210721b0d576149f",
+      "loss": 0.5563881993293762
+    },
+    {
+      "step": 16,
+      "sequence_id": "seq_e8b4f75454f9491f",
+      "loss": 0.6473416686058044
+    },
+    {
+      "step": 17,
+      "sequence_id": "seq_b136f32c2233b97c",
+      "loss": 0.44849273562431335
+    },
+    {
+      "step": 18,
+      "sequence_id": "seq_27e88136c1812f85",
+      "loss": 0.5639212131500244
+    },
+    {
+      "step": 19,
+      "sequence_id": "seq_d7af6c64ebc22bbe",
+      "loss": 0.48189446330070496
+    },
+    {
+      "step": 20,
+      "sequence_id": "seq_b3247b4b3a2f591b",
+      "loss": 2.970050811767578
+    },
+    {
+      "step": 21,
+      "sequence_id": "seq_b9b5a9ad9a64ced9",
+      "loss": 0.35162219405174255
+    },
+    {
+      "step": 22,
+      "sequence_id": "seq_f1c007d2d64e6aad",
+      "loss": 0.5175308585166931
+    },
+    {
+      "step": 23,
+      "sequence_id": "seq_b8b5563330fdc89d",
+      "loss": 0.8693291544914246
+    },
+    {
+      "step": 24,
+      "sequence_id": "seq_dce8be23c3281228",
+      "loss": 1.1967747211456299
+    },
+    {
+      "step": 25,
+      "sequence_id": "seq_f492843aa3a0240c",
+      "loss": 0.8503419160842896
+    },
+    {
+      "step": 26,
+      "sequence_id": "seq_535e0754d805105b",
+      "loss": 0.9841718077659607
+    },
+    {
+      "step": 27,
+      "sequence_id": "seq_91119fd54cd62066",
+      "loss": 0.7713204026222229
+    },
+    {
+      "step": 28,
+      "sequence_id": "seq_fa2eee6269a5dad3",
+      "loss": 0.8556848764419556
+    },
+    {
+      "step": 29,
+      "sequence_id": "seq_637459fc880bf35a",
+      "loss": 0.8919536471366882
+    },
+    {
+      "step": 30,
+      "sequence_id": "seq_c2de6cb4b3c91103",
+      "loss": 0.6680088639259338
+    },
+    {
+      "step": 31,
+      "sequence_id": "seq_88c1ad85c0fc1e9a",
+      "loss": 0.6953398585319519
+    },
+    {
+      "step": 32,
+      "sequence_id": "seq_d749b853cf795b6a",
+      "loss": 0.7441436052322388
+    },
+    {
+      "step": 33,
+      "sequence_id": "seq_8e8496c2039c3d5a",
+      "loss": 0.7080532312393188
+    },
+    {
+      "step": 34,
+      "sequence_id": "seq_83ff2f28f5c13c40",
+      "loss": 0.6450855135917664
+    },
+    {
+      "step": 35,
+      "sequence_id": "seq_0dc2e3d874c804fc",
+      "loss": 0.9016970992088318
+    },
+    {
+      "step": 36,
+      "sequence_id": "seq_71033fec4de494fc",
+      "loss": 0.8827373385429382
+    },
+    {
+      "step": 37,
+      "sequence_id": "seq_864aaca43a3580bb",
+      "loss": 0.8887679576873779
+    },
+    {
+      "step": 38,
+      "sequence_id": "seq_98544ce821c3f74b",
+      "loss": 1.007845163345337
+    },
+    {
+      "step": 39,
+      "sequence_id": "seq_f9a4e67ae3c018f6",
+      "loss": 0.83254474401474
+    },
+    {
+      "step": 40,
+      "sequence_id": "seq_f9043534f1171d4e",
+      "loss": 0.980634331703186
+    },
+    {
+      "step": 41,
+      "sequence_id": "seq_f7f9d9dbf5b05cb5",
+      "loss": 0.7745441794395447
+    },
+    {
+      "step": 42,
+      "sequence_id": "seq_da71f7a842c91090",
+      "loss": 0.8132173418998718
+    },
+    {
+      "step": 43,
+      "sequence_id": "seq_5e4a9d63617d62bf",
+      "loss": 0.7936294078826904
+    },
+    {
+      "step": 44,
+      "sequence_id": "seq_fa5b05d0f22bff15",
+      "loss": 0.6845622658729553
+    },
+    {
+      "step": 45,
+      "sequence_id": "seq_45c9871f52e99417",
+      "loss": 0.5880398750305176
+    },
+    {
+      "step": 46,
+      "sequence_id": "seq_f9248d307dec033f",
+      "loss": 0.4796900749206543
+    },
+    {
+      "step": 47,
+      "sequence_id": "seq_4e5d126a68879ddf",
+      "loss": 0.8584333658218384
+    },
+    {
+      "step": 48,
+      "sequence_id": "seq_888a2728b36f1745",
+      "loss": 0.5570054650306702
+    },
+    {
+      "step": 49,
+      "sequence_id": "seq_aef69e98002294bc",
+      "loss": 0.9651181101799011
+    },
+    {
+      "step": 50,
+      "sequence_id": "seq_98d98dac2a89a339",
+      "loss": 1.0112171173095703
+    },
+    {
+      "step": 51,
+      "sequence_id": "seq_f1f5fb7a11b950f3",
+      "loss": 1.108200192451477
+    },
+    {
+      "step": 52,
+      "sequence_id": "seq_fb6d15ad78b7191c",
+      "loss": 1.0550990104675293
+    },
+    {
+      "step": 53,
+      "sequence_id": "seq_44b9a316b2919cfe",
+      "loss": 0.9689949154853821
+    },
+    {
+      "step": 54,
+      "sequence_id": "seq_098e260f231aa789",
+      "loss": 1.101736068725586
+    },
+    {
+      "step": 55,
+      "sequence_id": "seq_2e4b837ead6b88ae",
+      "loss": 1.3084312677383423
+    },
+    {
+      "step": 56,
+      "sequence_id": "seq_ac5793f8168efdd1",
+      "loss": 1.1012377738952637
+    },
+    {
+      "step": 57,
+      "sequence_id": "seq_8f7b98bae85cd5e5",
+      "loss": 0.5918671488761902
+    },
+    {
+      "step": 58,
+      "sequence_id": "seq_720a7023d4f2ffcb",
+      "loss": 0.7560378909111023
+    },
+    {
+      "step": 59,
+      "sequence_id": "seq_5c5304b3f7796f8c",
+      "loss": 0.6253535151481628
+    },
+    {
+      "step": 60,
+      "sequence_id": "seq_a3d73a93577ffd94",
+      "loss": 0.778199315071106
+    },
+    {
+      "step": 61,
+      "sequence_id": "seq_5f9ee35846b7e635",
+      "loss": 0.6297643184661865
+    },
+    {
+      "step": 62,
+      "sequence_id": "seq_41d68dfc426cc19e",
+      "loss": 0.643671452999115
+    }
+  ],
+  "mean_loss": 0.8141343670506631,
+  "vision_dtype": "torch.float32",
+  "note": "This run continued from diagnostic adapter updates; it is not a pristine single-epoch experiment."
+}

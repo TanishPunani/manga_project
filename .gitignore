@@ -218,3 +218,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# MangaTranscribe project-specific exclusions
+README_OLD.md
+README_withstar.md
+**/checkpoints/
+# Keep provided dataset files out of the public repository
+development/images/
+test/images/
+labels.jsonl
+sft_manifest.jsonl
+outputs/validation_references.jsonl
+README_OLD.md
+README_withstar.md
+**/checkpoints/
